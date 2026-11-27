@@ -1,0 +1,52 @@
+
+/* Algemene instellingen */
+body {
+    background-color: #ddd;
+    font-family: Arial, sans-serif;
+}
+
+/* Achtergrondkleuren */
+.achtergrond-licht {
+    background-color: #eee;
+    padding: 20px;
+}
+
+.achtergrond-donker {
+    background-color: #aaa;
+    padding: 20px;
+}
+
+.achtergrond-wit {
+    background-color: #fff;
+    padding: 15px;
+}
+
+/* Afgeronde hoeken */
+.afgerond {
+    border-radius: 12px;
+}
+
+/* Koppen */
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+/* Afstand tussen kolommen */
+.row {
+    margin-bottom: 15px;
+}
+
+/* Afbeeldingen */
+img {
+    margin-bottom: 10px;
+}
+
+/* Tabel */
+table {
+    background-color: white;
+}
